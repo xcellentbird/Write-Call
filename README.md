@@ -4,7 +4,8 @@
 손글씨로 거는 전화
 
 ## 구현환경
-- Tensorflow(Keras), Python, tensorflow-lite, Android Studio, Kotlin
+- Tensorflow(Keras), Tensorflow-Lite, Python
+- Android Studio, Kotlin
 
 ## Dev Note
 1. MNIST 숫자 데이터를 이용하여 CNN 모델 만들기
