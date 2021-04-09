@@ -1,5 +1,4 @@
-![Write_Call](https://user-images.githubusercontent.com/59414764/114134344-8993fb00-9942-11eb-99b7-3254de49e783.gif)
-
+![Write_Call](https://user-images.githubusercontent.com/59414764/114134492-ce1f9680-9942-11eb-99e0-bb6a51a8bd0b.gif)
 
 # Write-Call
 손글씨로 거는 전화
