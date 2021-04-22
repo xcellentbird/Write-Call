@@ -12,7 +12,7 @@
 
 ## Dev Note
 <details>
-  <summary> #### 2020년 4월 9일 </summary>
+  <summary><b>2020년 4월 9일</b></summary>
   
   1. MNIST 숫자 데이터를 이용하여 CNN 모델 만들기
   2. mnist.tflite(Tensorflow Lite) 모델 파일 변형하기
