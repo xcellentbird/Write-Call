@@ -2,6 +2,7 @@
 
 # Write-Call
 손글씨로 거는 전화
+=> "배운 CNN을 어떻게 실생활에 적용시켜볼 수 있을까?"
 
 ## 구현환경
 - Tensorflow(Keras), Tensorflow-Lite, Python
